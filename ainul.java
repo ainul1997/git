@@ -8,3 +8,7 @@ public class Hollo {
         system.out.printIn("Welcome" + name);
         }
     }
+<!Doctype HTML>
+<html>
+    <h1>Hi I am ainul</h1>
+</html>
